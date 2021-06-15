@@ -1,0 +1,1 @@
+README for the 0x02-shell_redirections directory. This directory contains files about shell redirections project and aims to educate about shell commands and their applications.
